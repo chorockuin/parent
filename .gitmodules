@@ -1,3 +1,0 @@
-[submodule "child-A"]
-	path = child-A
-	url = https://github.com/chorockuin/child-A.git
